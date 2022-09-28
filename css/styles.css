@@ -4,14 +4,17 @@ body {
 }
 
 .container {
-    width: 550px;
-    height: 868px;
+    width: 30%;
+    /*width: 550px*/
+    /* height: 868px; */
+    min-width: 350px;
     margin: 53px auto;
-    background: #23252C;
+    /* background: #23252C; */
 }
 
 .card {
-    width: 317px;
+    width: 90%;
+    /* width: 317px; */
     margin: 35px auto;
     border: 1px solid #ababab;
     border-radius: 10px;
